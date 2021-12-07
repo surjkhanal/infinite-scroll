@@ -1,1 +1,1 @@
-https://surjkhanal.github.io/infinite-scroll/
+https://tosudh.github.io/infinite-scroll/
